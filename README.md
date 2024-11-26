@@ -1,7 +1,7 @@
 # Momentum-Trading-Bitcoin
-# Introduction to Algorithmic Trading 🧠📈
+# Algorithmic Trading 🧠📈
 
-This repository contains a Jupyter Notebook that introduces algorithmic trading concepts using Python. The notebook includes data fetching, analysis, and visualization techniques, with a focus on using libraries like `yfinance` and `pandas`.
+This repository contains a Jupyter Notebook that introduces algorithmic trading concepts using Python. The notebook includes data fetching, analysis, and visualization techniques,using Derivative concept with a focus on using libraries like `yfinance` and `pandas`.
 
 ---
 
